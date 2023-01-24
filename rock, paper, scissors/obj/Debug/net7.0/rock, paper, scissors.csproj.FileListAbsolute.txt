@@ -1,0 +1,15 @@
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/bin/Debug/net7.0/rock, paper, scissors
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/bin/Debug/net7.0/rock, paper, scissors.deps.json
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/bin/Debug/net7.0/rock, paper, scissors.runtimeconfig.json
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/bin/Debug/net7.0/rock, paper, scissors.dll
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/bin/Debug/net7.0/rock, paper, scissors.pdb
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.csproj.AssemblyReference.cache
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.AssemblyInfoInputs.cache
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.AssemblyInfo.cs
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.csproj.CoreCompileInputs.cache
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.dll
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/refint/rock, paper, scissors.dll
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.pdb
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/rock, paper, scissors.genruntimeconfig.cache
+/Users/honzapenicka/Desktop/ANTI-SOCIAL/Projekty/rock, paper, scissors/obj/Debug/net7.0/ref/rock, paper, scissors.dll
